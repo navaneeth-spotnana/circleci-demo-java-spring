@@ -2,8 +2,6 @@
 
 **Note:** This project is currently under substantial development to include additional use cases and show off more features of CircleCI.
 
-If you are coming here form the [Java Language Guide](https://circleci.com/docs/2.0/language-java/#config-walkthrough) please follow along at [this revision](https://github.com/CircleCI-Public/circleci-demo-java-spring/tree/9dcdae5e2988b207e0ac9b6bb9cf8ed711fba4ad) before major changes began to take place.
-
 This message will be removed once the CircleCI documentation matches this repository again.
 
 ---
@@ -17,9 +15,6 @@ This application uses the following tools:
 * PostgreSQL
 * Spring Boot
 * Thymeleaf
-
-You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-java/).
-An older version of this sample project that uses Maven is accessible [here](https://github.com/CircleCI-Public/circleci-demo-java-spring/tree/maven) though it is no longer being actively maintained.
 
 ## Local Development
 

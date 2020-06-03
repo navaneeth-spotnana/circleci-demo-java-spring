@@ -10,8 +10,6 @@ This application uses the following tools:
 * Spring 
 * Thymeleaf
 
-You can follow along with this project by reading the [documentation](https://circleci.com/docs/2.0/language-java/).
-
 ## License
 
 Copyright © 2017 CircleCI
